@@ -50,7 +50,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("PrimeMusic.plugins" + all_module)
+        importlib.import_module(f"PrimeMusic.plugins{all_module}")
     LOGGER("PrimeMusic.plugins").info(
         "Successfully Imported Modules "
     )
