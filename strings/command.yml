@@ -60,7 +60,7 @@ DELSUDO_COMMAND : ["mdelsudo"]
 SUDOUSERS_COMMAND : ["sudo"]
 
 #Broadcast 
-BROADCAST_COMMAND : ["bcast"]
+BROADCAST_COMMAND : ["kirim"]
 
 #Blacklist chat
 BLACKLISTCHAT_COMMAND : ["blacklistchat"]
@@ -107,6 +107,6 @@ ACTIVEVC_COMMAND : ["vcs"]
 ACTIVEVIDEO_COMMAND : ["vcv"]
 
 #Gban Commands
-GBAN_COMMAND : ["gban"]
+GBAN_COMMAND : ["mgban"]
 UNGBAN_COMMAND : ["ungban"]
 GBANNED_COMMAND : ["gbannedusers"]
