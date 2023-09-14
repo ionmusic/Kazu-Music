@@ -34,7 +34,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["P_C_1"], url="https://t.me/Html12text"
+                text=_["P_C_1"], url="https://t.me/KazuxProjects"
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
@@ -77,7 +77,7 @@ def stream_markup(_, videoid, chat_id):
     return [
         [
             InlineKeyboardButton(
-                text=_["P_C_1"], url="https://t.me/Html12text"
+                text=_["P_C_1"], url="https://t.me/KazuxProjects"
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
