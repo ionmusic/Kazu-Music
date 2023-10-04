@@ -40,11 +40,11 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001837838911"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME"' Kazu x Robot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Kazu x Robot")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "5570926583").split())
 )  # Input type must be interger
 
 # JANGAN HAPUS YA KONTOL
