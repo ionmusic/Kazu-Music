@@ -13,6 +13,7 @@ psutil
 py-tgcalls==0.9.7
 pykeyboard
 pyrogram==1.4.16
+pymongo
 python-dotenv
 pyyaml==6.0.1
 requests
