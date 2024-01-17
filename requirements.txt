@@ -12,7 +12,7 @@ pillow==10.0.1
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-git+https://github.com/pyrogram/pyrogram/archive/master.zip
+git+https://github.com/pyrogram/pyrogram/archive/master.zip.git
 pymongo
 python-dotenv
 pyyaml==6.0.1
